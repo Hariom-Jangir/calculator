@@ -60,7 +60,7 @@ html, body {
   height: 70%;
   border: 2px solid black;
   background: linear-gradient(135deg, #74ebd5, #acb6e5);
-  overflow-x: auto; /* allow horizontal scroll if needed */
+  overflow-x: auto; 
 }
 
 .all {
